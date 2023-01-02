@@ -22,7 +22,7 @@ Plese let me know how is it for the first timer and give your feedbacks.
 
 ### Screenshot
 
-![./images/Screenshot.png](./images/Screenshot.png)
+![images/Screenshot.png](./images/Screenshot.png)
 
 The above is screenshot of the same preview.
 
